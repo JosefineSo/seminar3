@@ -1,6 +1,6 @@
 # seminar3
 
-Erkenntniss des Seminars (02.11.2026)
+Gelerntes des Seminars (02.11.2026)
 - erstellen von Codespace in Git Hub
 - verwenden von Copilot in Codespace
     - erstellen von Dateien und Code
@@ -8,3 +8,4 @@ Erkenntniss des Seminars (02.11.2026)
     - grafisches darstellen von Daten
     - analyse von daten
     - ki-modell trainieren lassen
+- Ausgaben von KI sollten geprüft und genutzte Daten nachvollzogen werden
