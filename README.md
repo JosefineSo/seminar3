@@ -8,4 +8,6 @@ Gelerntes des Seminars (02.11.2026)
     - grafisches darstellen von Daten
     - analyse von daten
     - ki-modell trainieren lassen
+- KI kann Arbeiten beschleunigen
 - Ausgaben von KI sollten geprüft und genutzte Daten nachvollzogen werden
+- KI kann fehler machenund ist nicht immer korrekt
